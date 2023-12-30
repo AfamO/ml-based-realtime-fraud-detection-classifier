@@ -1,2 +1,5 @@
-# credit-score-classifier
-An ML app that classifies and assigns a user to a credit score bracket
+# real time fraud-detection
+A real time kafka based fraud detection ml classifier.
+It also provides a little analytics.
+Depends on Kafka broker
+It also depends on another separate python API called transaction generator. This transaction generator mimicks Core Banking app or any other source that can provide life transaction data.
