@@ -1,2 +1,2 @@
-# ml-based-realtime-fraud-detection-classifier
-A real time fraud detection and classifier using Kafka and Streamlit
+# credit-score-classifier
+An ML app that classifies and assigns a user to a credit score bracket
